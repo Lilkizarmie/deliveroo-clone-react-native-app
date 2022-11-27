@@ -7,7 +7,7 @@ import {
 } from 'react-native-heroicons/outline';
 import Categories from '../../components/Categories/Categories';
 import FeaturedRow from '../../components/FeaturedRow/FeaturedRow';
-import sanityClient from "../../sanity";
+import sanityClient from "../../sanity/package.json";
 import services from "../../services";
 
 export default function HomeScreen() {
