@@ -47,7 +47,8 @@ export default {
         },
         {
             name: "type",
-            title: "Enter a Rating from (1-5 Stars)",
+            title: "Enter a Category",
+            validation: (Rule) => Rule.required(),
             type: "reference",
             to: [{type: "category"}]
         },
