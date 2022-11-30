@@ -24,9 +24,9 @@ Deliveroo clone using React native, Tailwind CSS and Sanity CMS as backend
 
 <div id="image-table">
     <table>
-	    <tr>
+	 <tr>
     	    <td style="padding:20px">
-        	    <img src="https://github.com/Lilkizarmie/deliveroo-clone-react-native-app/blob/working/screenshots/home.png" width="500" height="500"/>
+        	    <img src="https://github.com/Lilkizarmie/deliveroo-clone-react-native-app/blob/working/screenshots/home.png" width="500"/>
               <h2>Home Screen</h2>
       	    </td>
             <td style="padding:20px">
